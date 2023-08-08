@@ -2,6 +2,7 @@
 {
     public class Counter
     {
+        ArgumentOutOfRangeException
         private int Numero { get; set; }
 
         private static Counter instance;
