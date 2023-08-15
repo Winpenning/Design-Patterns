@@ -5,7 +5,7 @@ categoria do padrão: ************************************padrões de criação*
 ---
 
 <aside>
-💡 Fornece uma ********************interface******************** para criar famílias de objetos relacionados ou dependentes sem especificar suas classes concretas.
+💡 Fornece uma interface para criar famílias de objetos relacionados ou dependentes sem especificar suas classes concretas.
 
 </aside>
 
