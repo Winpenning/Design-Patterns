@@ -1,0 +1,15 @@
+C:\Users\zsphS\source\repos\Winpenning\Design-Patterns\Template Method\bin\Debug\net7.0\Template Method.exe
+C:\Users\zsphS\source\repos\Winpenning\Design-Patterns\Template Method\bin\Debug\net7.0\Template Method.deps.json
+C:\Users\zsphS\source\repos\Winpenning\Design-Patterns\Template Method\bin\Debug\net7.0\Template Method.runtimeconfig.json
+C:\Users\zsphS\source\repos\Winpenning\Design-Patterns\Template Method\bin\Debug\net7.0\Template Method.dll
+C:\Users\zsphS\source\repos\Winpenning\Design-Patterns\Template Method\bin\Debug\net7.0\Template Method.pdb
+C:\Users\zsphS\source\repos\Winpenning\Design-Patterns\Template Method\obj\Debug\net7.0\Template Method.csproj.AssemblyReference.cache
+C:\Users\zsphS\source\repos\Winpenning\Design-Patterns\Template Method\obj\Debug\net7.0\Template Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zsphS\source\repos\Winpenning\Design-Patterns\Template Method\obj\Debug\net7.0\Template Method.AssemblyInfoInputs.cache
+C:\Users\zsphS\source\repos\Winpenning\Design-Patterns\Template Method\obj\Debug\net7.0\Template Method.AssemblyInfo.cs
+C:\Users\zsphS\source\repos\Winpenning\Design-Patterns\Template Method\obj\Debug\net7.0\Template Method.csproj.CoreCompileInputs.cache
+C:\Users\zsphS\source\repos\Winpenning\Design-Patterns\Template Method\obj\Debug\net7.0\Template Method.dll
+C:\Users\zsphS\source\repos\Winpenning\Design-Patterns\Template Method\obj\Debug\net7.0\refint\Template Method.dll
+C:\Users\zsphS\source\repos\Winpenning\Design-Patterns\Template Method\obj\Debug\net7.0\Template Method.pdb
+C:\Users\zsphS\source\repos\Winpenning\Design-Patterns\Template Method\obj\Debug\net7.0\Template Method.genruntimeconfig.cache
+C:\Users\zsphS\source\repos\Winpenning\Design-Patterns\Template Method\obj\Debug\net7.0\ref\Template Method.dll
