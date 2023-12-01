@@ -6,8 +6,6 @@
         {
             Documento a = new Documento("Texto","Conteudo ABC");
             Documento b = new Documento("Planilha", "[],[],[]");
-           // Console.WriteLine(a);
-           // Console.WriteLine(b);
 
             ProcessadorDeDocumentoDeTexto p1 = new ProcessadorDeDocumentoDeTexto(a);
             ProcessadorDePlanilha p2 = new ProcessadorDePlanilha(b);
